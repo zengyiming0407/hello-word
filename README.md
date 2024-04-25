@@ -1,2 +1,3 @@
 # hello-word
-this repository is used to practice the gitHub process
+firstly,this repository is used to practice the gitHub process
+second, this is zengyiming’s repository
